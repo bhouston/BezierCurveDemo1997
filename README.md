@@ -46,6 +46,9 @@ at "irc.stealth.net"!!!
 Hellos to...
 
 AZURE: Asch, Mundane.
+
 INTRA: Omega, Perlude, the guy with 3DSMAX, and the guy who loves Final Fantasy!
+
 #Coders: Xyz (nothing), Jaffar (isreali guy), and Bimba (thanks for the blobbies).
+
 And of course anyone who loves the scene !!!!!
