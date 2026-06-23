@@ -1,7 +1,7 @@
 
 Azure Bezier and B-Spline Examples
 
-plash  [bhouston@shl.com]
+plash  [ben@ben3d.ca]
 July 29, 1997
 
 
@@ -39,7 +39,7 @@ curves, AART is probably the better choice.  Personally I have a copy of both.
 Tell Me What You Think
 
 If you have any suggestions or questions I will respond the best I can.
-E-mail me at work to dispell the bordem: bhouston@shl.com !!!  Or join #coders
+E-mail me at work to dispell the bordem: ben@ben3d.ca !!!  Or join #coders
 at "irc.stealth.net"!!!
 
 
